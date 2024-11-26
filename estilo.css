@@ -1,56 +1,9 @@
-header{
- background-color: rgb(199, 191, 74);
-}
-
 body{
-background-color: rgb(243, 70, 70);
-font-family: Arial, Helvetica, sans-serif;
-}
 
-
-p{
-    font-weight: bold; 
+    background-color: rgb(85, 184, 151);
 }
-
-#p1{
-    background-color: rgb(43, 43, 192);
-}
-
-.perfil{
-    width: 200px;
-    border: 3px solid rgb(235, 199, 0);
-    border-radius: 50%;
-}
-/*estilos de la sesion 4*/
-ul {
-   list-style-type: decimal;
-}
-
-ol{
-   list-style-type: square;
-}
+ul{ list-style-type: decimal;}
 table{
-  margin: 40px;
- 
-    border: 4px rgb(0, 0, 0); 
-    background-color: aqua;
-    color: rgb(95, 42, 5);
-}
-.windows{
-    list-style-type: decimal;
-    font-style: oblique;
-}
- .Linux{
-     list-style-type: upper-roman;
-     font-style: oblique;
- }
- .arm{
-    list-style-type: lower-alpha;
-    font-style: italic;
- }
- /*ESTILOS DE LA SESIO 5*/
-.GENERO{
-     display: inline;
-     margin: 10px auto 10px;
-
+    border: 0.6px;
+    padding: 40px;
 }
